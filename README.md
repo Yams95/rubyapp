@@ -1,4 +1,4 @@
-== README
+Hello Im going to make a sample app named rubyclone by following hartl book
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
